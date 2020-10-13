@@ -1,0 +1,56 @@
+[
+    {
+        "tipo" : 1,
+        "url" : "Images/Espanol1.jpg",
+        "descripcion":"Verbo",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Verbo"
+    },
+    {
+        "tipo" : 1,
+        "url" : "Images/Espanol2.jpg",
+        "descripcion":"Sujeto",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Sujeto_(gram%C3%A1tica)"
+    },
+    {
+        "tipo" : 1,
+        "url" : "Images/Espanol3.jpg",
+        "descripcion":"Predicado",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Predicado_(gram%C3%A1tica)"
+    },
+    {
+        "tipo" : 2,
+        "url" : "Images/matematicas1.jpg",
+        "descripcion":"Suma",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Adici%C3%B3n_(matem%C3%A1tica)"
+    },
+    {
+        "tipo" : 2,
+        "url" : "Images/matematicas2.jpg",
+        "descripcion":"Resta",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Resta"
+    },
+    {
+        "tipo" : 2,
+        "url" : "Images/matematicas3.jpg",
+        "descripcion":"Multiplicación",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Multiplicaci%C3%B3n"
+    },
+    {
+        "tipo" : 3,
+        "url" : "Images/quimica1.jpg",
+        "descripcion":"Mezcla",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Mezcla#:~:text=Una%20mezcla%20es%20un%20material,decir%2C%20que%20sus%20componentes%20pueden"
+    },
+    {
+        "tipo" : 3,
+        "url" : "Images/quimica2.jpg",
+        "descripcion":"Solución",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Soluci%C3%B3n#:~:text=en%20qu%C3%ADmica%2C%20una%20disoluci%C3%B3n%20o,de%20la%20trama%20principal%3B%20y"
+    },
+    {
+        "tipo" : 3,
+        "url" : "Images/quimica3.png",
+        "descripcion":"Química",
+        "enlaceExterno":"https://es.wikipedia.org/wiki/Qu%C3%ADmica"
+    }
+]

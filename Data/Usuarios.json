@@ -1,0 +1,32 @@
+[
+    {
+        "nombre":"Hector Alejandro Jaime Dominguez",
+        "usuario":"hejado26",
+        "activo":true,
+        "password":"Test123"
+    },
+    {
+        "nombre":"Joaquin Perez Ruiz",
+        "usuario":"joperu12",
+        "activo":true,
+        "password":"Test123"
+    },
+    {
+        "nombre":"Alicia Pedraza Marquez",
+        "usuario":"alpema98",
+        "activo":false,
+        "password":"Test123"
+    },
+    {
+        "nombre":"Monica Lopez Suarez",
+        "usuario":"molosu75",
+        "activo":true,
+        "password":"Test123"
+    },
+    {
+        "nombre":"Janet Rubio Esparza",
+        "usuario":"jarues00",
+        "activo":true,
+        "password":"Test123"
+    }
+]

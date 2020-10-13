@@ -1,0 +1,46 @@
+[
+    {
+        "materia":"Matematicas",
+        "asistencia": 60,
+        "actividades":90,
+        "tareas":70,
+        "proyecto":80,
+        "examen":98
+    },
+    {
+        "materia":"Español",
+        "asistencia": 80,
+        "actividades":90,
+        "tareas":80,
+        "proyecto":50,
+        "examen":98
+
+    },
+    {
+        "materia":"Historia",
+        "asistencia": 60,
+        "actividades":90,
+        "tareas":70,
+        "proyecto":80,
+        "examen":98
+
+    },
+    {
+        "materia":"Quimica",
+        "asistencia": 60,
+        "actividades":90,
+        "tareas":70,
+        "proyecto":80,
+        "examen":98
+
+    },
+    {
+        "materia":"Fisica",
+        "asistencia": 60,
+        "actividades":90,
+        "tareas":70,
+        "proyecto":80,
+        "examen":98
+
+    }
+]

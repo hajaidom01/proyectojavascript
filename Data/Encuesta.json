@@ -1,0 +1,36 @@
+[
+    {
+        "pregunta":"Que te parecieron las clases?",
+        "imagen":"Images/pregunta1.png"
+    },
+    {
+        "pregunta":"Cual es tu materia favorita?",
+        "imagen":"Images/pregunta2.png"
+    },
+    {
+        "pregunta":"Que es lo que mas te gustó de la materia?",
+        "imagen":"Images/pregunta3.png"
+    },
+    {
+        "pregunta":"Te gustaron las clases en línea?",
+        "imagen":"Images/pregunta4.png"
+    },
+    {
+        "pregunta":"Que otra materia agregarías?",
+        "imagen":"Images/pregunta5.png"
+    },
+    {
+        "pregunta":"Que cambiarias de las clases?",
+        "imagen":"Images/pregunta6.png"
+    },
+    {
+        "pregunta":"Te gustaría que tus clases sean solamente en línea?",
+        "imagen":"Images/pregunta7.png"
+    },
+    {
+        "pregunta":"Del 1 al 10 que calificación le das al curso?",
+        "imagen":""
+    }
+
+
+]

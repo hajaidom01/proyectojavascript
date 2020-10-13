@@ -1,0 +1,30 @@
+a:hover 
+{
+    cursor: pointer;
+    border-radius:  3% 3% 3% 3%;
+    text-decoration: black;
+}
+
+
+
+footer {
+    position: static;
+    bottom: 0;    
+    
+    
+  }
+
+  .img-fit{
+      width: 30px;
+      height: 30px;
+  }
+
+
+  
+
+
+.gallery-image{
+    object-fit:cover;
+    height: 350px;
+    width:350px;
+}
